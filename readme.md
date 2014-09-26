@@ -58,7 +58,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [BICS & CALP](http://www.everythingesl.net/inservices/bics_calp.php)
 - [Nominalization](http://en.wikipedia.org/wiki/Nominalization)
 - [Metalanguage](http://en.wikipedia.org/wiki/Metalanguage)
-- Canale & Swains 4 Components of Communicative Competence
+- [Canale & Swains 4 Components of Communicative Competence](http://en.wikipedia.org/wiki/Communicative_competence#CITEREFCanaleSwain1980)
 - [Scaffolding](http://en.wikipedia.org/wiki/Instructional_scaffolding)
 - [Contextualization](http://en.wikipedia.org/wiki/Contextualization_(sociolinguistics))
 
