@@ -5,6 +5,26 @@ Date | Action
 Assignment 1 | October 30
 Assignment 2 | November 6
 
+# Quiz Oct 9 (Outline)
+
+- Out of 20
+- First (7 Marks)
+	- Mohan's Knowledge framework
+		- what is it
+		- why do we use it
+		- how can we apply/use it
+- Second (4 Marks)
+	- Compare & Contrast 2 approaches or methods of your choice
+		- What & how you would use different aspects of said approaches
+			- e.g. Pink (salmon?) sheet
+-  Third (4 Marks)
+	- Choose three of ellis' [principals](http://asian-efl-journal.com/sept_05_re.pdf) for language learning
+		- Shown to be applied well in a particular chapter in Gibbons or Selsa Murphia (sp?)
+		- Author of chapter and examples
+- Fourth (5 Marks)
+	- Terms & Definitions
+		- Explain the term and two implications for ESL context
+
 # Influential Theorists
 
 Person | Theory
@@ -131,26 +151,6 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 | **High Context** | I. (easiest) | III
 | **Low Context** | II | IV (hardest)
 
-
-# Quiz Oct 9 (Outline)
-
-- Out of 20
-- First (7 Marks)
-	- Mohan's Knowledge framework
-		- what is it
-		- why do we use it
-		- how can we apply/use it
-- Second (4 Marks)
-	- Compare & Contrast 2 approaches or methods of your choice
-		- What & how you would use different aspects of said approaches
-			- e.g. Pink (salmon?) sheet
--  Third (4 Marks)
-	- Choose three of ellis' [principals](http://asian-efl-journal.com/sept_05_re.pdf) for language learning
-		- Shown to be applied well in a particular chapter in Gibbons or Selsa Murphia (sp?)
-		- Author of chapter and examples
-- Fourth (5 Marks)
-	- Terms & Definitions
-		- Explain the term and two implications for ESL context
 
 
 # [SIOP Model](http://siop.pearson.com/)
