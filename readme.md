@@ -1,3 +1,10 @@
+# Important Dates
+
+Date | Action
+--- | ---
+Assignment 1 | October 30
+Assignment 2 | November 6
+
 # Influential Theorists
 
 Person | Theory
