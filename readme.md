@@ -1,7 +1,3 @@
-Date | Version | Description | Author
------------- | ------------- | ------------| ----
-17/04/2014 | 0.1 | Initial | Evan Louie
-
 # Influential Theorists
 
 Person | Theory
