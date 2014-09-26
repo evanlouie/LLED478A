@@ -155,13 +155,14 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 
 # [SIOP Model](http://siop.pearson.com/)
 
+
 ## 8 Components
 
-1. Preparation
-2. Building background
-3. Comprehensible Input
-4. Strategies
+1. Preparation 
+2. Building background 
+3. Comprehensible Input 
+4. Strategies 
 5. Interaction
-6. Practice/Application
+6. Practice/Application 
 7. Lesson Delivery
 8. Assessment
