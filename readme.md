@@ -2,6 +2,7 @@
 
 Date | Action
 --- | ---
+Quiz | October 9
 Assignment 1 | October 30
 Assignment 2 | November 6
 
