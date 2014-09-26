@@ -146,10 +146,22 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 			- e.g. Pink (salmon?) sheet
 -  Third (4 Marks)
 	- Choose three of ellis' [principals](http://asian-efl-journal.com/sept_05_re.pdf) for language learning
-		- Shown to be applied well in a particular chapter in Gibbons or Selsa Murphia 
+		- Shown to be applied well in a particular chapter in Gibbons or Selsa Murphia (sp?)
 		- Author of chapter and examples
 - Fourth (5 Marks)
 	- Terms & Definitions
 		- Explain the term and two implications for ESL context
 
 
+# [SIOP Model](http://siop.pearson.com/)
+
+## 8 Components
+
+1. Preparation
+2. Building background
+3. Comprehensible Input
+4. Strategies
+5. Interaction
+6. Practice/Application
+7. Lesson Delivery
+8. Assessment
