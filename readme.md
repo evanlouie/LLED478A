@@ -106,9 +106,9 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 ``Each category has its own thinking skills, graphic organizers, and discourse structures``
 
 
-# BICS vs CALP
+# [BICS vs CALP](http://www.everythingesl.net/inservices/bics_calp.php)
 
-BICS | CALP
+[BICS](http://en.wikipedia.org/wiki/Basic_interpersonal_communicative_skills) | [CALP](http://en.wikipedia.org/wiki/Cognitive_academic_language_proficiency)
 ---|---
 1 - 2 years | 5-7 years
 Cognitively Undemanding | Cognitively Demanding
