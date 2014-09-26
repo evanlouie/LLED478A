@@ -28,7 +28,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - Aims, goals, objectives of programs
 - Canale & Swains 4 components of communication
 - Bachman's 5 components of communicative competence (1990s) 
-- BICS & CALP
+- [BICS & CALP](http://www.everythingesl.net/inservices/bics_calp.php)
 - [Nominalization](http://en.wikipedia.org/wiki/Nominalization)
 - [Metalanguage](http://en.wikipedia.org/wiki/Metalanguage)
 - Canale & Swains 4 Components of Communicative Competence
@@ -37,14 +37,14 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 
 # Theorists
 
-- Ellis, Rod
-- Vygotsky
+- [Ellis, Rod](http://en.wikipedia.org/wiki/Rod_Ellis)
+- [Vygotsky](http://www.learning-theories.com/vygotskys-social-learning-theory.html)
 - Lantolf
-- Krashen
-- Swain
-- Long
-- Canale & Swain
-- Selinker
+- [Krashen](http://en.wikipedia.org/wiki/Stephen_Krashen)
+- [Swain](http://en.wikipedia.org/wiki/Merrill_Swain)
+- [Long](http://en.wikipedia.org/wiki/Michael_Long_(academic))
+- [Canale & Swain](http://en.wikipedia.org/wiki/Communicative_competence)
+- [Selinker](http://en.wikipedia.org/wiki/Interlanguage_fossilization)
 - Sander & Lambert
 
 # Approaches
