@@ -46,7 +46,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [comprehensible input (i+1 Krashen)](http://en.wikipedia.org/wiki/Input_hypothesis)
 - [pushed output](http://en.wikipedia.org/wiki/Comprehensible_output)
 - [negotiation of meaning](http://en.wikipedia.org/wiki/Interaction_hypothesis)
-- gambits
+- [gambits](http://www.eslgold.com/speaking/conversation_gambits.html)
 - [focus on form vs focus on forms](http://en.wikipedia.org/wiki/Focus_on_form)
 - Proficiency descriptors,
 	- e.g. Canadian Language Benchmarks (CLB)
@@ -58,7 +58,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [BICS & CALP](http://www.everythingesl.net/inservices/bics_calp.php)
 - [Nominalization](http://en.wikipedia.org/wiki/Nominalization)
 - [Metalanguage](http://en.wikipedia.org/wiki/Metalanguage)
-- [Canale & Swains 4 Components of Communicative Competence](http://en.wikipedia.org/wiki/Communicative_competence#CITEREFCanaleSwain1980)
+- [Canale & Swains 4 Components of Communicative Competence](http://en.wikipedia.org/wiki/Communicative_competence#CITEREFCanaleSwain1980) (+ Discourse Competence)
 - [Scaffolding](http://en.wikipedia.org/wiki/Instructional_scaffolding)
 - [Contextualization](http://en.wikipedia.org/wiki/Contextualization_(sociolinguistics))
 
