@@ -1,8 +1,4 @@
-[toc]
-
-# Day 1
-
-## Influential Theorists
+# Influential Theorists
 
 Person | Theory
 -|-
@@ -16,7 +12,7 @@ Selinker | [Interlanguage](http://en.wikipedia.org/wiki/Interlanguage)
 Ellis, Rod | [Variable Competence Model](http://languagetesting.info/articles/store/variable%20competence.pdf)
 Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia.org/wiki/Motivation_in_second-language_learning#Gardner.27s_socio-educational_model)
 
-## Terms & Concepts
+# Terms & Concepts
 
 - [Inductive vs Deductive teaching/learning](http://www.educ.ualberta.ca/staff/olenka.Bilash/best%20of%20bilash/inductivedeductive.html)
 - [Input, intake, output](http://acquiringl2.wordpress.com/2012/05/19/difference-between-intake-and-input-in-second-language-learning/)
@@ -39,7 +35,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - Scaffolding
 - Contextualization
 
-## Theorists
+# Theorists
 
 - Ellis, Rod
 - Vygotsky
@@ -51,7 +47,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - Selinker
 - Sander & Lambert
 
-## Approaches
+# Approaches
 
 - [Audiolingual](http://en.wikipedia.org/wiki/Audio-lingual_method)
 - [Suggestopedia](http://en.wikipedia.org/wiki/Suggestopedia)
@@ -61,7 +57,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [Natural Approach](http://en.wikipedia.org/wiki/Natural_approach)
 
   	
-## Lesson Plan Background
+# Lesson Plan Background
 
 - Choose a guideline to assess (ie Richmond SD38)
 	- Listening, speaking, reading, writing
@@ -75,7 +71,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 	- levels of proficiency
 		- CLB, CEFR, ACTFL
 
-## [Mohans Knowledge Framework](http://tslater.public.iastate.edu/kf/framework.html)
+# [Mohans Knowledge Framework](http://tslater.public.iastate.edu/kf/framework.html)
  - An organizational tool that helps **teachers and students** to see knowledge structures -- the common patterns underlying the presentation of information
  - Making students aware of knowledge structures allows them to access to material at a much higher level than their linguistic ability would normally allow.
  - Topics of study or content or "activity" can be broken down into six structures of knowledge ("boxes") with associated thinking processes and language structures.
@@ -110,7 +106,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 ``Each category has its own thinking skills, graphic organizers, and discourse structures``
 
 
-## BICS vs CALP
+# BICS vs CALP
 
 BICS | CALP
 -|-
@@ -122,14 +118,14 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 
 ---
 
+
 | - | Low Cognitive Demand | High Cognitive Demand
 |-|-|-
 | **High Context** | I. (easiest) | III
 | **Low Context** | II | IV (hardest)
 
-# Day 4
 
-## Quiz Oct 9 (Outline)
+# Quiz Oct 9 (Outline)
 
 - Out of 20
 - First (7 Marks)
