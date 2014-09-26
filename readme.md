@@ -103,7 +103,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 6. Choosing
 
 |What is it (being) | How does it work (doing) | Feeling 
-|- |- |-
+|--- |--- |---
 | Classifying | Explaining/Principles | Evaluation
 | Describing | Sequencing | Choosing
 
@@ -113,7 +113,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 # BICS vs CALP
 
 BICS | CALP
--|-
+---|---
 1 - 2 years | 5-7 years
 Cognitively Undemanding | Cognitively Demanding
 Context embedded | Context reduced 
@@ -124,7 +124,7 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 
 
 | - | Low Cognitive Demand | High Cognitive Demand
-|-|-|-
+|---|---|---
 | **High Context** | I. (easiest) | III
 | **Low Context** | II | IV (hardest)
 
