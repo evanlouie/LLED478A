@@ -5,7 +5,7 @@ Date | Version | Description | Author
 # Influential Theorists
 
 Person | Theory
-- | -
+--- | ---
 Swain | [Output Hypothesis](http://en.wikipedia.org/wiki/Comprehensible_output)
 Long | [Interactive Hypothesis](http://en.wikipedia.org/wiki/Interaction_hypothesis)
 Vygotsky | [ZPD](http://en.wikipedia.org/wiki/Zone_of_proximal_development)
