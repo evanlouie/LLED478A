@@ -29,11 +29,11 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - Canale & Swains 4 components of communication
 - Bachman's 5 components of communicative competence (1990s) 
 - BICS & CALP
-- Nominalization
-- Metalanguage
+- [Nominalization](http://en.wikipedia.org/wiki/Nominalization)
+- [Metalanguage](http://en.wikipedia.org/wiki/Metalanguage)
 - Canale & Swains 4 Components of Communicative Competence
-- Scaffolding
-- Contextualization
+- [Scaffolding](http://en.wikipedia.org/wiki/Instructional_scaffolding)
+- [Contextualization](http://en.wikipedia.org/wiki/Contextualization_(sociolinguistics))
 
 # Theorists
 
