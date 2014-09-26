@@ -166,15 +166,3 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 6. Practice/Application 
 7. Lesson Delivery
 8. Assessment
-
-# Content Based Language Teaching
-
-## Models
-
-- Immersion Model
-	- typical Content-based instruction
-- Sheltered Model
-	- student take 
-- Adjunct Model
-- Theme-based Model
-
