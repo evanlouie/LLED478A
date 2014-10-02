@@ -45,7 +45,7 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [Inductive vs Deductive teaching/learning](http://www.educ.ualberta.ca/staff/olenka.Bilash/best%20of%20bilash/inductivedeductive.html)
 - [Input, intake, output](http://acquiringl2.wordpress.com/2012/05/19/difference-between-intake-and-input-in-second-language-learning/)
 - [comprehensible input (i+1 Krashen)](http://en.wikipedia.org/wiki/Input_hypothesis)
-- [pushed output](http://en.wikipedia.org/wiki/Comprehensible_output)
+- Swain's [pushed output](http://en.wikipedia.org/wiki/Comprehensible_output)
 - [negotiation of meaning](http://en.wikipedia.org/wiki/Interaction_hypothesis)
 - [gambits](http://www.eslgold.com/speaking/conversation_gambits.html)
 - [focus on form vs focus on forms](http://en.wikipedia.org/wiki/Focus_on_form)
@@ -62,6 +62,15 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [Canale & Swains 4 Components of Communicative Competence](http://en.wikipedia.org/wiki/Communicative_competence#Use_in_education) (+ Discourse Competence)
 - [Scaffolding](http://en.wikipedia.org/wiki/Instructional_scaffolding)
 - [Contextualization](http://en.wikipedia.org/wiki/Contextualization_(sociolinguistics))
+- [Recast](http://en.wikipedia.org/wiki/Recast_(language_teaching)) or Reformulation
+- [Inductive vs Deductive teaching/learning](http://www.educ.ualberta.ca/staff/olenka.bilash/best%20of%20bilash/inductivedeductive.html)
+- [Display vs Referential Questions](http://en.wikipedia.org/wiki/Display_question)
+- [Wait Time](https://www.teachervision.com/teaching-methods/new-teacher/48446.html)
+- Global vs Local errors
+- [KWL chart](http://en.wikipedia.org/wiki/KWL_table)
+- [Pedagogical vs Real-life tasks](http://ptrirat.wordpress.com/2009/04/29/pedagogical-and-real-world-tasks/)
+- [Controlled, semi-controlled, free practice](http://www.headsupenglish.com/index.php/esl-articles/esl-lesson-structure/310-controlled-to-free-activities)
+- [Halliday & Hasan's field, tenor, mode](http://en.wikipedia.org/wiki/Register_(sociolinguistics))
 
 # Theorists
 
