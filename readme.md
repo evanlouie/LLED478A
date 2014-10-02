@@ -62,7 +62,6 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [Scaffolding](http://en.wikipedia.org/wiki/Instructional_scaffolding)
 - [Contextualization](http://en.wikipedia.org/wiki/Contextualization_(sociolinguistics))
 - [Recast](http://en.wikipedia.org/wiki/Recast_(language_teaching)) or Reformulation
-- [Inductive vs Deductive teaching/learning](http://www.educ.ualberta.ca/staff/olenka.bilash/best%20of%20bilash/inductivedeductive.html)
 - [Display vs Referential Questions](http://en.wikipedia.org/wiki/Display_question)
 - [Wait Time](https://www.teachervision.com/teaching-methods/new-teacher/48446.html)
 - Global vs Local errors
