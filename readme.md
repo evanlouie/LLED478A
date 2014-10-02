@@ -54,7 +54,6 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - Content-based programs 
 	- e.g. CBLT, CLIL, SIOP, 6Ts
 - Aims, goals, objectives of programs
-- Canale & Swains 4 components of communication
 - Bachman's 5 components of communicative competence (1990s) 
 - [BICS & CALP](http://www.everythingesl.net/inservices/bics_calp.php)
 - [Nominalization](http://en.wikipedia.org/wiki/Nominalization)
