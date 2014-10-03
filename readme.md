@@ -69,6 +69,8 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 	- Local: Small errors which don't break understanding. 
 - [KWL chart](http://en.wikipedia.org/wiki/KWL_table)
 - [Pedagogical vs Real-life tasks](http://ptrirat.wordpress.com/2009/04/29/pedagogical-and-real-world-tasks/)
+	- Pedagogical: tasks done in classroom to scaffold learning
+	- Real-life: Applicable. (ESP)
 - [Controlled, semi-controlled, free practice](http://www.headsupenglish.com/index.php/esl-articles/esl-lesson-structure/310-controlled-to-free-activities)
 - [Halliday & Hasan's field, tenor, mode](http://en.wikipedia.org/wiki/Register_(sociolinguistics))
 
