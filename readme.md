@@ -65,6 +65,8 @@ Gardner & Lambert | [Instrumental & Intergrative Motivation](http://en.wikipedia
 - [Display vs Referential Questions](http://en.wikipedia.org/wiki/Display_question)
 - [Wait Time](https://www.teachervision.com/teaching-methods/new-teacher/48446.html)
 - Global vs Local errors
+	- Global: interfere with communication. (Don't understand, break communication)
+	- Local: Small errors which don't break understanding. 
 - [KWL chart](http://en.wikipedia.org/wiki/KWL_table)
 - [Pedagogical vs Real-life tasks](http://ptrirat.wordpress.com/2009/04/29/pedagogical-and-real-world-tasks/)
 - [Controlled, semi-controlled, free practice](http://www.headsupenglish.com/index.php/esl-articles/esl-lesson-structure/310-controlled-to-free-activities)
