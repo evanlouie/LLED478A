@@ -178,3 +178,17 @@ Learning & Teaching by doing | Learning & Teaching by teaching from lecture and 
 6. Practice/Application 
 7. Lesson Delivery
 8. Assessment
+
+# Ellis' Principles
+
+1. Instruction needs to ensure that learners develop both a rich repertoire of formulaic expressions and a rule-based competence.
+2. Instruction needs to ensure that learners focus predominantly on meaning.
+3. Instruction needs to ensure that learners also focus on form
+4. Instruction needs to be predominantly directed at developing implicit knowledge of the L2 while not neglecting explicit knowledge.
+5. Instruction needs to take into account the learner’s ‘built-in syllabus’. 
+6. Successful instructed language learning requires extensive L2 input. 
+7. Successful instructed language learning also requires opportunities for output.
+8. The opportunity to interact in the L2 is central to developing L2 proficiency. 
+9. Instruction needs to take account of individual differences in learners. 
+10. In assessing learners’ L2 proficiency, it is important to examine free as well as controlled production 
+
